@@ -1,0 +1,281 @@
+,date,keyword,processed,01/06/2021,02/06/2021,03/06/2021,04/06/2021,05/06/2021,06/06/2021,07/06/2021,08/06/2021,09/06/2021,10/06/2021,11/06/2021,12/06/2021,13/06/2021,14/06/2021
+0,31/05/2021,DHL,['DHL'],0,0,2,0,0,0,0,0,0,0,0,0,1,0
+1,31/05/2021,Hilli Fruits,['Fruits' 'Hilli'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,31/05/2021,Commerzbank,['Commerzbank'],1,0,0,0,0,0,0,0,1,0,0,0,0,0
+3,31/05/2021,DAX,['DAX'],2,2,1,1,0,0,1,2,1,0,1,0,0,0
+4,31/05/2021,Fronleichnam,['Fronleichnam'],0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5,31/05/2021,Deutsche Bank,['Bank' 'deutschen'],0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6,31/05/2021,Sked,['Sked'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,31/05/2021,Rentenbesteuerung,['Rentenbesteuerung'],2,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,31/05/2021,Explosion Hamburg,['Explosion' 'Hamburg'],2,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,31/05/2021,WowWow,['WowWow'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,31/05/2021,Graz,['Graz'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,31/05/2021,Sparkasse,['Sparkasse'],0,0,0,0,0,0,0,0,1,0,0,0,1,0
+12,31/05/2021,Österreich,['Österreich'],5,5,3,2,3,1,2,0,1,2,2,1,5,7
+13,31/05/2021,Waidmannsdank,['Waidmannsdank'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,31/05/2021,Linz,['Linz'],0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,31/05/2021,Udo Walz,['Udo' 'Walz'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,31/05/2021,Cover Me in Sunshine,['Cover' 'Me' 'Sunshine'],0,0,1,0,0,0,0,0,0,0,0,0,0,0
+17,31/05/2021,TUI-Aktie,['Aktie' 'TUI'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,31/05/2021,Roger Federer,['Federer' 'Roger'],1,0,0,0,1,5,1,0,0,0,0,0,0,0
+19,31/05/2021,Lufthansa-Aktie,['Aktie' 'Lufthansa'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,01/06/2021,Pride Month,['Month' 'Pride'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,01/06/2021,Rummenigge,['Rummenigge'],4,4,2,0,0,0,0,0,0,0,0,0,0,0
+22,01/06/2021,Johannes Oerding,['Johannes' 'Oerding'],0,1,0,0,0,0,0,0,0,0,0,0,0,0
+23,01/06/2021,Johnson & Johnson,['Johnson'],4,2,0,3,0,6,0,2,4,3,6,8,2,1
+24,01/06/2021,Reiner Calmund,['Calmund' 'Reiner'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,01/06/2021,Charlotte Würdig,['Charlotte' 'Würdig'],1,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,01/06/2021,Apotheke,['Apotheke'],0,0,0,2,0,0,0,1,4,6,3,2,1,1
+27,01/06/2021,Sturm der Liebe,['Sturm' 'lieben'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,01/06/2021,Vogelgrippe,['Vogelgrippe'],4,1,0,0,0,0,0,0,0,0,0,0,0,0
+29,01/06/2021,Wacken 2021,['2021' 'Wacken'],1,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,01/06/2021,Carlo Ancelotti,['Ancelotti' 'Carlo'],0,3,1,0,0,0,0,0,0,0,0,0,0,0
+31,01/06/2021,Gerhard Schröder,['Gerhard' 'Schröder'],1,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,01/06/2021,Deutschland Lettland,['Deutschland' 'Lettland'],1,3,0,0,1,0,1,1,0,0,0,0,0,0
+33,01/06/2021,Nico Schlotterbeck,['Nico' 'Schlotterbeck'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,01/06/2021,Rebel Wilson,['Rebel' 'Wilson'],1,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,01/06/2021,Bedingungsloses Grundeinkommen,['Bedingungsloses' 'Grundeinkommen'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,01/06/2021,Jessica Paszka,['Jessica' 'Paszka'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,01/06/2021,Sahra Wagenknecht,['Sahra' 'Wagenknecht'],1,1,0,0,0,0,2,1,0,2,1,2,1,0
+38,01/06/2021,Matthias Steiner,['Matthias' 'Steiner'],0,1,0,0,0,0,0,0,0,0,0,0,0,0
+39,01/06/2021,Pride,['Pride'],0,1,0,0,0,0,0,0,0,1,0,0,0,0
+40,02/06/2021,Frank Kameny,['Frank' 'Kameny'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,02/06/2021,Fronleichnam,['Fronleichnam'],0,1,0,0,0,0,0,0,0,0,0,0,0,0
+42,02/06/2021,Moshammer,['Moshammer'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,02/06/2021,AMC-Aktie,['AMC' 'Aktie'],0,0,1,1,1,0,1,0,0,0,0,0,0,0
+44,02/06/2021,RTL,['RTL'],0,1,3,2,0,0,0,3,3,1,0,0,0,1
+45,02/06/2021,Lothar Matthäus,['Lothar' 'Matthäus'],0,0,1,0,0,0,0,1,0,0,0,0,0,0
+46,02/06/2021,KFC Uerdingen,['KFC' 'Uerdingen'],0,0,1,1,0,0,0,0,0,0,0,0,0,0
+47,02/06/2021,Marina Marx,['Marina' 'Marx'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,02/06/2021,Alexander Zverev,['Alexander' 'Zverev'],3,1,1,2,0,1,1,1,5,0,2,7,0,1
+49,02/06/2021,Florian Neuhaus,['Florian' 'Neuhaus'],0,0,1,0,0,0,0,0,0,0,0,0,0,0
+50,02/06/2021,Mark van Bommel,['Bommel' 'Mark' 'van'],0,4,1,0,0,0,0,0,0,0,0,0,0,0
+51,02/06/2021,Kate Winslet,['Kate' 'Winslet'],0,3,0,0,0,0,0,0,1,0,0,0,0,0
+52,02/06/2021,Romy Walthall,['Romy' 'Walthall'],0,1,0,0,0,0,0,0,0,0,0,0,0,0
+53,02/06/2021,Jogi Löw,['Jogi' 'Löw'],0,0,0,0,0,0,0,0,0,0,0,2,0,0
+54,02/06/2021,Celonis,['Celonis'],0,5,2,0,0,0,0,0,0,0,0,0,0,0
+55,02/06/2021,Länderspiel,['Länderspiel'],0,0,2,0,0,0,0,4,1,0,0,0,1,0
+56,02/06/2021,Herzmuskelentzündung,['Herzmuskelentzündung'],0,3,2,3,2,0,0,0,0,0,1,0,0,0
+57,02/06/2021,Manuel Neuer,['Manuel' 'Neuer'],1,1,0,0,0,0,1,3,0,0,0,0,0,0
+58,02/06/2021,Charlie Watts,['Charlie' 'Watt'],0,2,0,0,0,0,0,0,0,0,0,0,0,0
+59,02/06/2021,Deutschland Dänemark,['Deutschland' 'Dänemark'],3,0,5,0,0,0,0,0,0,1,0,0,0,1
+60,03/06/2021,Eishockey-WM,['Eishockey' 'WM'],2,4,5,6,3,11,2,1,0,0,0,0,0,0
+61,03/06/2021,Evelyn Burdecki,['Burdecki' 'Evelyn'],0,0,0,1,0,0,0,0,0,0,0,0,0,0
+62,03/06/2021,Kebekus,['Kebekus'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,03/06/2021,Hannover,['Hannover'],1,1,1,4,2,1,0,2,0,0,0,0,0,0
+64,03/06/2021,Fussball EM,['EM' 'Fussball'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,03/06/2021,Brandenburg,['Brandenburg'],1,1,1,0,0,0,0,1,0,0,0,0,1,0
+66,03/06/2021,Die Welt ist nicht genug,['Welt'],38,19,17,22,15,19,26,21,22,22,16,20,21,7
+67,03/06/2021,Roger Federer,['Federer' 'Roger'],1,0,0,0,1,5,1,0,0,0,0,0,0,0
+68,03/06/2021,Fussball,['Fussball'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,03/06/2021,Bettina Wulff,['Bettina' 'Wulff'],0,0,3,1,0,0,0,0,0,0,0,0,0,0
+70,03/06/2021,Annika Lau Frühstücksfernsehen,['Annika' 'Frühstücksfernsehen' 'Lau'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,03/06/2021,Bozen-Krimi,['Bozen' 'Krimi'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,03/06/2021,SPORT1,['SPORT1'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,03/06/2021,Schießerei Hannover,['Hannover' 'Schießerei'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,03/06/2021,24h Nürburgring,['24h' 'Nürburgring'],0,0,0,0,0,0,1,0,0,0,0,0,0,0
+75,03/06/2021,3080 Ti,['3080' 'Ti'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,03/06/2021,Das Ende der Wahrheit,['Wahrheit'],1,0,2,0,3,2,0,3,1,1,2,0,0,0
+77,03/06/2021,Desiree Nick,['Desiree' 'Nick'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,03/06/2021,24h-Rennen,['24h' 'Rennen'],0,0,0,0,0,0,1,0,0,0,0,0,0,0
+79,03/06/2021,Spotify Only You,['Only' 'Spotify' 'You'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,04/06/2021,Kardinal Marx,['Kardinal' 'Marx'],0,0,0,13,10,5,0,0,3,9,6,0,2,0
+81,04/06/2021,Christina Luft,['Christina' 'Luft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,04/06/2021,Corona-Regeln Bayern,['Bayer' 'Corona' 'Regel'],0,0,0,2,0,0,0,0,0,0,0,0,0,0
+83,04/06/2021,SPORT1,['SPORT1'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,04/06/2021,Robert Beitsch,['Beitsch' 'Robert'],0,0,0,1,0,0,0,0,0,0,0,0,0,0
+85,04/06/2021,Prinzessin Madeleine,['Madeleine' 'Prinzessin'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,04/06/2021,Edge of Tomorrow,['Edge' 'Tomorrow' 'of'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,04/06/2021,Marta Arndt,['Arndt' 'Marta'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,04/06/2021,Alexander Zverev,['Alexander' 'Zverev'],3,1,1,2,0,1,1,1,5,0,2,7,0,1
+89,04/06/2021,Davina Geiss,['Davina' 'Geiss'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,04/06/2021,Kathrin Menzinger,['Kathrin' 'Menzinger'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,04/06/2021,Unwetterwarnung,['Unwetterwarnung'],0,0,0,1,2,1,0,0,1,0,0,0,0,0
+92,04/06/2021,Sweet Tooth,['Sweet' 'Tooth'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,04/06/2021,Lakers,['Lakers'],0,1,0,1,0,0,0,0,0,0,0,0,0,0
+94,04/06/2021,F1,['F1'],0,0,0,0,1,0,0,0,0,0,0,0,0,0
+95,04/06/2021,Eishockey-WM 2021 Spielplan,['2021' 'Eishockey' 'Spielplan' 'WM'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,04/06/2021,Unwetter NRW,['NRW' 'Unwetter'],0,0,0,1,0,0,0,0,0,0,0,0,0,0
+97,04/06/2021,Friederike Mayröcker,['Friederike' 'Mayröcker'],0,0,0,4,1,0,0,0,0,0,0,0,0,0
+98,04/06/2021,No Angels,['Angels' 'No'],0,0,0,1,1,0,1,0,0,0,0,0,0,0
+99,04/06/2021,Autohero,['Autohero'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,05/06/2021,Helene Fischer,['Fischer' 'Helene'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,05/06/2021,Roger Federer,['Federer' 'Roger'],1,0,0,0,1,5,1,0,0,0,0,0,0,0
+102,05/06/2021,Wincent Weiss,['Weiss' 'Wincent'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,05/06/2021,Rot-Weiss Essen,['Essen' 'Rot' 'Weiss'],0,0,0,0,0,2,0,0,0,0,0,0,0,0
+104,05/06/2021,SPORT1 LIVE,['LIVE' 'SPORT1'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,05/06/2021,Jens Spahn,['Jens' 'Spahn'],4,3,2,0,2,7,4,4,5,8,4,1,2,2
+106,05/06/2021,Florian Silbereisen,['Florian' 'Silbereisen'],0,0,0,0,0,0,0,0,0,0,1,0,0,0
+107,05/06/2021,Meret Becker,['Becker' 'Meret'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,05/06/2021,Martha Argerich,['Argerich' 'Martha'],0,0,0,0,4,0,0,0,0,0,0,0,0,0
+109,05/06/2021,Tank Man,['Tank'],0,2,1,2,3,2,0,2,1,1,0,1,1,0
+110,05/06/2021,U21 EM-Finale,['EM' 'Finale' 'U21'],0,0,0,8,0,1,2,0,0,0,0,0,0,0
+111,05/06/2021,Anna Elendt,['Anna' 'Elendt'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,05/06/2021,SPORT1,['SPORT1'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,05/06/2021,Hennef,['Hennef'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,05/06/2021,Struff,['Struff'],2,1,0,2,1,2,0,0,0,0,0,0,0,0
+115,05/06/2021,Friesland Asche zu Asche,['Asche' 'Friesland'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,05/06/2021,Eishockey-WM,['Eishockey' 'WM'],2,4,5,6,3,11,2,1,0,0,0,0,0,0
+117,05/06/2021,Formel 1,['1' 'Formel'],0,0,0,1,2,7,1,2,1,0,0,0,0,0
+118,05/06/2021,24h Nürburgring 2021,['2021' '24h' 'Nürburgring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,05/06/2021,Kardinal Marx,['Kardinal' 'Marx'],0,0,0,13,10,5,0,0,3,9,6,0,2,0
+120,06/06/2021,Wahl Sachsen-Anhalt,['Anhalt' 'Sachsen' 'Wahl'],4,2,1,0,5,12,29,9,3,0,1,0,0,0
+121,06/06/2021,Meghan Markle,['Markle' 'Meghan'],0,1,0,0,0,0,2,0,0,0,0,0,0,0
+122,06/06/2021,Sarah Engels,['Engel' 'Sarah'],0,1,0,0,0,3,0,0,0,0,0,0,0,0
+123,06/06/2021,Joshua Kimmich,['Joshua' 'Kimmich'],0,0,0,0,0,0,1,0,1,1,0,0,0,0
+124,06/06/2021,Niklas Dorsch,['Dorsch' 'Niklas'],0,0,0,0,0,0,1,0,0,0,0,0,0,0
+125,06/06/2021,ARD,['ARD'],6,1,0,0,0,0,0,6,3,1,8,1,2,1
+126,06/06/2021,Mayweather Logan Paul,['Logan' 'Mayweather' 'Paul'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,06/06/2021,Eva Herzig,['Eva' 'Herzig'],0,0,0,0,0,0,2,2,1,0,0,0,0,0
+128,06/06/2021,Andreas Gabalier,['Andrea' 'Gabalier'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,06/06/2021,Andrea Kiewel,['Andrea' 'Kiewel'],0,0,0,0,0,1,1,0,0,0,0,0,0,0
+130,06/06/2021,Eishockey-WM Finale,['Eishockey' 'Finale' 'WM'],0,0,0,0,1,0,2,0,0,0,0,0,0,0
+131,06/06/2021,Mick Schumacher,['Mick' 'Schumacher'],0,0,0,0,0,0,2,0,0,0,0,0,0,0
+132,06/06/2021,Agit Kabayel,['Agit' 'Kabayel'],0,0,0,0,0,1,0,0,0,0,0,0,0,0
+133,06/06/2021,MDR,['MDR'],2,0,0,0,0,1,0,0,0,0,0,0,0,0
+134,06/06/2021,Frauen-Bundesliga,['Bundesliga' 'Frau'],0,0,0,0,1,3,0,0,0,0,0,0,0,0
+135,06/06/2021,Tatort: Die dritte Haut,['Haut' 'Tatort'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,06/06/2021,Late Night,['Late' 'Night'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,06/06/2021,Mansour Ojjeh,['Mansour' 'Ojjeh'],0,0,0,0,0,1,0,0,0,0,0,0,0,0
+138,06/06/2021,Hans-Georg Maaßen,['Georg' 'Hans' 'Maaßen'],2,2,0,2,0,1,3,1,0,0,0,0,0,0
+139,06/06/2021,Lydia Hüskens,['Hüskens' 'Lydia'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,07/06/2021,Apple,['Apple'],1,1,1,0,1,0,0,8,2,0,1,2,0,1
+141,07/06/2021,Bushido,['Bushido'],0,0,0,0,0,0,0,3,0,0,1,0,0,0
+142,07/06/2021,Lena Meyer-Landrut,['Landrut' 'Lena' 'Meyer'],1,1,0,1,0,0,0,0,0,0,0,0,0,0
+143,07/06/2021,Djokovic,['Djokovic'],0,0,0,0,0,0,0,0,1,1,0,6,3,6
+144,07/06/2021,RTL,['RTL'],0,1,3,2,0,0,0,3,3,1,0,0,0,1
+145,07/06/2021,WWDC,['WWDC'],0,0,0,0,0,0,0,3,0,0,0,0,0,0
+146,07/06/2021,Let's Dance - Kids,['Dance' 'Kid' 'Let' 's'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,07/06/2021,Impftermin NRW,['Impftermin' 'NRW'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,07/06/2021,Die Toten vom Bodensee,['Bodensee' 'Tote'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,07/06/2021,Lothar Matthäus,['Lothar' 'Matthäus'],0,0,1,0,0,0,0,1,0,0,0,0,0,0
+150,07/06/2021,Nora Waldstätten,['Nora' 'Waldstätten'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,07/06/2021,Manuel Neuer,['Manuel' 'Neuer'],1,1,0,0,0,0,1,3,0,0,0,0,0,0
+152,07/06/2021,Wahl Sachsen-Anhalt,['Anhalt' 'Sachsen' 'Wahl'],4,2,1,0,5,12,29,9,3,0,1,0,0,0
+153,07/06/2021,U21-EM,['EM' 'U21'],0,0,0,8,0,1,5,0,0,0,0,0,0,0
+154,07/06/2021,Deutschland gegen Lettland,['Deutschland' 'Lettland'],1,3,0,0,1,0,1,1,0,0,0,0,0,0
+155,07/06/2021,Formel-1,['1' 'Formel'],0,0,0,1,2,7,1,2,1,0,0,0,0,0
+156,07/06/2021,Mayweather Logan Paul,['Logan' 'Mayweather' 'Paul'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,07/06/2021,Meghan Markle,['Markle' 'Meghan'],0,1,0,0,0,0,2,0,0,0,0,0,0,0
+158,07/06/2021,Niklas Dorsch,['Dorsch' 'Niklas'],0,0,0,0,0,0,1,0,0,0,0,0,0,0
+159,07/06/2021,Sarah Engels,['Engel' 'Sarah'],0,1,0,0,0,3,0,0,0,0,0,0,0,0
+160,08/06/2021,Silas Wamangituka,['Silas' 'Wamangituka'],0,0,0,0,0,0,0,6,1,0,0,0,0,0
+161,08/06/2021,Ratko Mladic,['Mladic' 'Ratko'],0,0,0,0,0,0,0,2,2,0,0,0,0,0
+162,08/06/2021,Fortnite Season 7,['7' 'Fortnite' 'Season'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,08/06/2021,Minecraft 1.17,['1' '17' 'Minecraft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,08/06/2021,Ian Hooper,['Hooper' 'Ian'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,08/06/2021,Fastly,['Fastly'],0,0,0,0,0,0,0,1,1,0,0,0,0,0
+166,08/06/2021,Macron,['Macron'],7,1,1,1,1,0,0,6,6,3,5,2,2,1
+167,08/06/2021,Davidovich Fokina,['Davidovich' 'Fokina'],0,0,0,0,0,0,0,0,1,0,0,0,0,0
+168,08/06/2021,Namibia,['Namibia'],3,1,2,3,4,0,0,0,2,0,0,1,0,0
+169,08/06/2021,Jeff Bezos,['Bezos' 'Jeff'],0,0,0,0,0,0,6,0,2,1,0,0,3,0
+170,08/06/2021,Deutschland Lettland,['Deutschland' 'Lettland'],1,3,0,0,1,0,1,1,0,0,0,0,0,0
+171,08/06/2021,Bushido,['Bushido'],0,0,0,0,0,0,0,3,0,0,1,0,0,0
+172,08/06/2021,Apple,['Apple'],1,1,1,0,1,0,0,8,2,0,1,2,0,1
+173,08/06/2021,Pinar Atalay,['Atalay' 'Pinar'],0,0,0,0,0,0,0,2,3,0,0,0,0,0
+174,08/06/2021,WWDC 2021,['2021' 'WWDC'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,08/06/2021,Rente mit 68,['68' 'Rente'],0,0,0,0,0,0,2,7,5,2,1,2,0,0
+176,08/06/2021,windeln.de-Aktie,['Aktie' 'de' 'windeln'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,08/06/2021,Robin Gosens,['Gosens' 'Robin'],0,0,1,0,0,1,0,2,0,0,0,0,0,0
+178,08/06/2021,Fussball heute,['Fussball'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,08/06/2021,Deutschland Fußball,['Deutschland' 'Fußball'],2,1,0,0,0,1,2,2,1,4,2,2,2,0
+180,09/06/2021,Libuše Šafránková,['Libuše' 'Šafránková'],0,0,0,0,0,0,0,0,2,0,0,0,0,0
+181,09/06/2021,Battlefield 6,['6' 'Battlefield'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,09/06/2021,Loki Serie,['Loki' 'Serie'],0,0,0,0,0,0,0,0,1,0,0,0,0,0
+183,09/06/2021,Tsitsipas,['Tsitsipas'],0,0,0,0,0,0,0,0,2,0,2,9,2,3
+184,09/06/2021,Aktenzeichen XY,['Aktenzeichen' 'XY'],0,0,0,0,0,0,0,0,1,0,0,0,0,0
+185,09/06/2021,Arabella Kiesbauer,['Arabella' 'Kiesbauer'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,09/06/2021,Karim Benzema,['Benzema' 'Karim'],0,0,1,0,0,0,0,0,0,0,0,0,0,0
+187,09/06/2021,Teyana Taylor,['Taylor' 'Teyana'],0,0,0,0,0,0,0,0,0,1,0,0,0,0
+188,09/06/2021,Grey's Anatomy Staffel 17,['17' 'Anatomy' 'Grey' 'Staffel' 's'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,09/06/2021,Michael J. Fox,['Fox' 'J' 'Michael'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,09/06/2021,Anthony Jung,['Anthony' 'Jung'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,09/06/2021,Attila Hildmann,['Attila' 'Hildmann'],0,0,0,0,0,0,0,0,2,0,0,0,0,0
+192,09/06/2021,No Angels,['Angels' 'No'],0,0,0,1,1,0,1,0,0,0,0,0,0,0
+193,09/06/2021,Bauer sucht Frau,['Bauer' 'Frau' 'suchen'],1,0,0,1,0,0,0,0,0,0,0,0,0,0
+194,09/06/2021,Armie Hammer,['Armie' 'Hammer'],0,0,0,0,0,0,0,0,1,0,0,0,0,0
+195,09/06/2021,Awake,['Awake'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,09/06/2021,Digitaler Impfpass,['Digitaler' 'Impfpass'],2,1,0,0,0,0,0,0,6,3,0,0,1,0
+197,09/06/2021,Sonnenfinsternis,['Sonnenfinsternis'],0,0,0,0,0,1,0,1,5,2,1,0,0,0
+198,09/06/2021,Silas Wamangituka,['Silas' 'Wamangituka'],0,0,0,0,0,0,0,6,1,0,0,0,0,0
+199,09/06/2021,Ratko Mladic,['Mladic' 'Ratko'],0,0,0,0,0,0,0,2,2,0,0,0,0,0
+200,10/06/2021,Valentina Pahde,['Pahde' 'Valentina'],0,0,0,0,0,0,0,0,0,1,0,0,0,0
+201,10/06/2021,Tengelmann,['Tengelmann'],0,0,0,0,0,0,0,0,0,0,0,1,0,0
+202,10/06/2021,Rurik Gislason,['Gislason' 'Rurik'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,10/06/2021,Irina Shayk,['Irina' 'Shayk'],0,0,0,0,0,0,0,0,0,1,0,0,0,0
+204,10/06/2021,Giffey,['Giffey'],1,1,1,0,0,0,0,0,0,6,3,0,0,0
+205,10/06/2021,Elden Ring,['Elden' 'Ring'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,10/06/2021,Martin Stoeck,['Martin' 'Stoeck'],0,0,0,0,0,0,0,0,0,1,0,0,0,0
+207,10/06/2021,Gottfried Böhm,['Böhm' 'Gottfried'],0,0,0,0,0,0,0,0,0,3,2,0,0,0
+208,10/06/2021,Summer Game Fest,['Fest' 'Game' 'Summer'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,10/06/2021,Sarah Harrison,['Harrison' 'Sarah'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,10/06/2021,Kardinal Marx,['Kardinal' 'Marx'],0,0,0,13,10,5,0,0,3,9,6,0,2,0
+211,10/06/2021,We Are Football,['Are' 'Football' 'We'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,10/06/2021,Jürgen Prochnow,['Jürgen' 'Prochnow'],0,0,0,1,0,0,0,0,0,1,0,0,0,0
+213,10/06/2021,Beatrice Egli,['Beatrice' 'Egli'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,10/06/2021,Staatstrojaner,['Staatstrojaner'],0,0,0,0,0,0,0,0,1,1,2,0,0,0
+215,10/06/2021,Sonnenfinsternis 2021,['2021' 'Sonnenfinsternis'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,10/06/2021,CovPass,['CovPass'],0,0,0,0,0,0,0,1,2,0,4,0,0,1
+217,10/06/2021,Libuše Šafránková,['Libuše' 'Šafránková'],0,0,0,0,0,0,0,0,2,0,0,0,0,0
+218,10/06/2021,Philipp Mickenbecker,['Mickenbecker' 'Philipp'],0,0,0,0,0,0,0,0,0,0,4,0,0,0
+219,10/06/2021,Djokovic,['Djokovic'],0,0,0,0,0,0,0,0,1,1,0,6,3,6
+220,11/06/2021,Uefa Euro 2020,['2020' 'Euro' 'Uefa'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,11/06/2021,EM Spielplan,['EM' 'Spielplan'],0,0,0,0,0,0,0,0,0,0,1,0,0,0
+222,11/06/2021,Philipp Mickenbecker,['Mickenbecker' 'Philipp'],0,0,0,0,0,0,0,0,0,0,4,0,0,0
+223,11/06/2021,Fussball EM,['EM' 'Fussball'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,11/06/2021,Em 2020,['2020' 'Em'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,11/06/2021,ARD,['ARD'],6,1,0,0,0,0,0,6,3,1,8,1,2,1
+226,11/06/2021,Zverev,['Zverev'],3,5,2,2,0,1,1,2,7,0,3,10,1,1
+227,11/06/2021,Europameisterschaft,['Europameisterschaft'],4,2,3,4,0,0,4,6,2,3,7,11,3,3
+228,11/06/2021,EURO 2020,['2020' 'EURO'],0,0,0,1,0,0,1,0,2,2,1,3,2,1
+229,11/06/2021,Sport,['Sport'],15,7,6,1,2,1,3,3,1,3,6,4,4,0
+230,11/06/2021,EM 2021 Spielplan,['2021' 'EM' 'Spielplan'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,11/06/2021,Eröffnungsfeier EM 2021,['2021' 'EM' 'Eröffnungsfeier'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,11/06/2021,ZDF,['ZDF'],3,0,0,1,1,0,3,3,1,2,3,1,8,2
+233,11/06/2021,Sahra Wagenknecht,['Sahra' 'Wagenknecht'],1,1,0,0,0,0,2,1,0,2,1,2,1,0
+234,11/06/2021,MagentaTV,['MagentaTV'],0,0,0,0,0,0,0,0,0,0,0,2,0,0
+235,11/06/2021,INSM,['INSM'],0,0,0,0,0,0,0,0,0,0,0,1,0,1
+236,11/06/2021,Cornwall,['Cornwall'],0,0,1,0,0,0,0,0,0,2,7,4,4,1
+237,11/06/2021,G7,['G7'],0,0,1,3,10,5,4,1,5,8,20,19,19,8
+238,11/06/2021,Lucinda Riley,['Lucinda' 'Riley'],0,0,0,0,0,0,0,0,0,0,0,2,0,0
+239,11/06/2021,Curevac,['Curevac'],1,0,0,0,0,0,1,2,1,1,0,0,0,0
+240,12/06/2021,Belgien Russland,['Belgien' 'Russland'],0,0,0,0,0,0,0,0,1,0,0,0,8,0
+241,12/06/2021,Eden Hazard,['Eden' 'Hazard'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,12/06/2021,Christoph Kramer,['Christoph' 'Kramer'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,12/06/2021,Sascha Grammel,['Grammel' 'Sascha'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,12/06/2021,Ubisoft,['Ubisoft'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,12/06/2021,EM deutschland spiele,['EM' 'deutschland' 'spiele'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,12/06/2021,Tennis,['Tennis'],9,6,0,2,2,2,2,1,4,1,4,10,2,1
+247,12/06/2021,Queen Elizabeth,['Elizabeth' 'Queen'],0,0,0,0,0,0,1,0,0,0,0,0,0,1
+248,12/06/2021,Pohjanpalo,['Pohjanpalo'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,12/06/2021,Cosi fan tutte,['Cosi' 'fan' 'tutte'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,12/06/2021,Yussuf Poulsen,['Poulsen' 'Yussuf'],0,0,1,0,0,0,0,0,0,0,0,0,0,0
+251,12/06/2021,Carolin Emcke,['Carolin' 'Emcke'],0,0,0,0,0,0,0,0,0,0,0,2,4,1
+252,12/06/2021,Christian Eriksen,['Christian' 'Eriksen'],0,0,0,0,0,0,0,0,0,0,0,1,35,3
+253,12/06/2021,Em 2021,['2021' 'Em'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,12/06/2021,Türkei Italien,['Italien' 'Türkei'],0,0,0,0,0,0,0,0,0,0,4,17,0,0
+255,12/06/2021,Wales Schweiz,['Schweiz' 'Wal'],0,0,0,0,0,0,0,0,0,0,0,5,3,0
+256,12/06/2021,EM-Spielplan,['EM' 'Spielplan'],0,0,0,0,0,0,0,0,0,0,1,0,0,0
+257,12/06/2021,MagentaTV,['MagentaTV'],0,0,0,0,0,0,0,0,0,0,0,2,0,0
+258,12/06/2021,Nadal,['Nadal'],0,0,0,0,1,0,0,0,1,2,0,7,1,1
+259,12/06/2021,Europameisterschaft,['Europameisterschaft'],4,2,3,4,0,0,4,6,2,3,7,11,3,3
+260,13/06/2021,Nordmazedonien,['Nordmazedonien'],0,0,0,0,0,0,1,0,1,0,0,0,3,7
+261,13/06/2021,Niederlande Ukraine,['Niederlande' 'Ukraine'],0,0,0,0,0,0,1,0,0,1,0,0,0,4
+262,13/06/2021,ARD,['ARD'],6,1,0,0,0,0,0,6,3,1,8,1,2,1
+263,13/06/2021,Bastian Schweinsteiger,['Bastian' 'Schweinsteiger'],0,0,1,0,0,1,0,0,0,0,0,0,0,0
+264,13/06/2021,Memphis Depay,['Depay' 'Memphis'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,13/06/2021,Gülcan Kamps,['Gülcan' 'Kamp'],0,0,0,0,0,0,0,0,0,0,0,0,1,0
+266,13/06/2021,Jodie Foster,['Foster' 'Jodie'],0,1,0,2,0,0,0,0,1,0,0,0,0,0
+267,13/06/2021,Rebecca Mir,['Rebecca'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,13/06/2021,Wijnaldum,['Wijnaldum'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,13/06/2021,Deutschland Frankreich,['Deutschland' 'Frankreich'],3,0,1,0,1,1,1,1,2,4,1,3,1,0
+270,13/06/2021,Maskenpflicht,['Maskenpflicht'],2,1,0,1,0,0,0,2,2,5,2,1,7,7
+271,13/06/2021,Paul Zipser,['Paul' 'Zipser'],0,0,0,0,0,0,0,0,0,0,0,0,1,0
+272,13/06/2021,Herzogenaurach,['Herzogenaurach'],0,0,0,0,0,0,0,0,2,0,0,0,0,0
+273,13/06/2021,Holland,['Holland'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,13/06/2021,Grünen Annalena Baerbock,['Annalena' 'Baerbock' 'Grüne'],2,1,3,3,1,3,6,1,2,1,9,11,9,3
+275,13/06/2021,Forza Horizon 5,['5' 'Forza' 'Horizon'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,13/06/2021,Ken Jebsen,['Jebsen' 'Ken'],0,0,0,0,0,0,0,0,0,0,0,1,1,1
+277,13/06/2021,Rebel Wilson,['Rebel' 'Wilson'],1,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,13/06/2021,Square Enix,['Enix' 'Square'],0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,13/06/2021,England Kroatien,['England' 'Kroatien'],0,0,0,0,0,0,0,0,0,0,0,0,6,4
