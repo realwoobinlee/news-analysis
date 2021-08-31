@@ -14,10 +14,10 @@ for (row in 1:nrow(freq)) {
 ##### 
 # 1.
 # H0: Es gibt keinen zeitlichen Zusammenhang zwischen Nachrichten und Suchtrends
-#     (50 Prozent innerhalb dem 95%-Konfidenzintervalls)
+#     (50 Perzent innerhalb dem 95%-Konfidenzintervalls)
 # Werte:
 #  2.5%      97.5% 
-#  0.7913793 0.8603448 
+#  0.8103448 0.8405172 
 # Ergebnis: H0 ist nun zu verwerfen, denn der Wert (0,5) befindet sich außerhalb dem 95% Konfidenzintervall.
 # Visualization: visualization/histogram/time-dependency.png
 #####
@@ -26,7 +26,7 @@ get_total_prop <- function(start, end) {
   total_prop = 0.0
   
   for (i in start:end) {
-    total_prop = total_prop + prop(~ resample(arr_freq), success=i)
+    total_prop = total_prop + prop(~ resampled, success=i)
   }
   
   return(total_prop)
