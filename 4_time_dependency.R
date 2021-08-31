@@ -26,7 +26,7 @@ get_total_prop <- function(start, end) {
   total_prop = 0.0
   
   for (i in start:end) {
-    total_prop = total_prop + prop(~ resample(arr_freq), success=i)
+    total_prop = total_prop + prop(~ resampled, success=i)
   }
   
   return(total_prop)
